@@ -1,0 +1,2 @@
+Para executar o script, é necessário ter um arquivo com todas as contas de e-mail e que as senhas tenham sido previamente alteradas.
+Após isso, basta copiar e colar o código num arquivo .sh no servidor (Linux).
